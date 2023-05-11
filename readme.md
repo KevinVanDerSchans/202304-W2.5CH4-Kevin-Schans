@@ -1,4 +1,4 @@
-# # Week 2.5 - Challenge 4
+# Week 2.5 - Challenge 4
 
 # HTML+CSS Components
 
